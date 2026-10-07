@@ -1,2 +1,1 @@
-print("Hello Shraddha")
-print("Hello Sandip Kumar Sahu")
+print("Somnath Sahu")
